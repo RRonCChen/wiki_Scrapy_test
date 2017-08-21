@@ -1,7 +1,7 @@
 # wiki_Scrapy_test
 for practice using Scrapy to get data from wikipedia
 
-###說明###
+## 說明
 
 spider 放在spider裡面，都是在爬(https://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_country)
 這個頁面的所有的得獎者。
@@ -9,7 +9,7 @@ spider 放在spider裡面，都是在爬(https://en.wikipedia.org/wiki/List_of_N
 nwinners_list_spider.py  --> 這個是使用xpath。
 testBS4_spider.py        --> 是使用BeautifulSoup來寫。
 
-###啟用辦法###
+## 啟用辦法
 
 Spider的名字寫在每個spider的.py檔，裡面的name。
 
